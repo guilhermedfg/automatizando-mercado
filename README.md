@@ -3,7 +3,7 @@
 
 # AutoHotkey Script - Ajuste de Preços com Multiplicação por 0.937 (descontar 6,3%)
 
-Este script foi desenvolvido para automatizar a atualização de preços em um sistema de mercado. Ele multiplica valores dentro de um intervalo especificado por 0.937 (6,3%)), arredonda os resultados para duas casas decimais e envia comandos automaticamente para o sistema.
+Este script foi desenvolvido para automatizar a atualização de preços do sistema de mercado VR Master. Ele multiplica valores dentro de um intervalo especificado por 0.937 (6,3%), arredonda os resultados para duas casas decimais e envia comandos automaticamente para o sistema.
 
 ## 📌 Funcionalidade
 
